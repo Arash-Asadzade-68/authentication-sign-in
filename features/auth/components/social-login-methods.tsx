@@ -38,19 +38,19 @@ export default function SocialLoginMethods({ isPending }: SocialLoginMethodsProp
             {t('keyTerms.moreOptions')}
           </CollapsibleTrigger>
           <CollapsibleContent className={'grid grid-cols-5 gap-2 mt-3'}>
-            <div className="text-[10px] border border-(--border-color) p-1.5 text-center cursor-pointer text-(--text-secondary) transition-all duration-200 rounded-[6px] hover:border-(--text-primary) hover:text-(--text-primary)">
+            <div className="text-[10px] max-sm:text-[8px] border border-(--border-color) p-1.5 text-center cursor-pointer text-(--text-secondary) transition-all duration-200 rounded-[6px] hover:border-(--text-primary) hover:text-(--text-primary)">
               Microsoft
             </div>
-            <div className="text-[10px] border border-(--border-color) p-1.5 text-center cursor-pointer text-(--text-secondary) transition-all duration-200 rounded-[6px] hover:border-(--text-primary) hover:text-(--text-primary)">
+            <div className="text-[10px] max-sm:text-[8px] border border-(--border-color) p-1.5 text-center cursor-pointer text-(--text-secondary) transition-all duration-200 rounded-[6px] hover:border-(--text-primary) hover:text-(--text-primary)">
               Facebook
             </div>
-            <div className="text-[10px] border border-(--border-color) p-1.5 text-center cursor-pointer text-(--text-secondary) transition-all duration-200 rounded-[6px] hover:border-(--text-primary) hover:text-(--text-primary)">
+            <div className="text-[10px] max-sm:text-[8px] border border-(--border-color) p-1.5 text-center cursor-pointer text-(--text-secondary) transition-all duration-200 rounded-[6px] hover:border-(--text-primary) hover:text-(--text-primary)">
               Github
             </div>
-            <div className="text-[10px] border border-(--border-color) p-1.5 text-center cursor-pointer text-(--text-secondary) transition-all duration-200 rounded-[6px] hover:border-(--text-primary) hover:text-(--text-primary)">
+            <div className="text-[10px] max-sm:text-[8px] border border-(--border-color) p-1.5 text-center cursor-pointer text-(--text-secondary) transition-all duration-200 rounded-[6px] hover:border-(--text-primary) hover:text-(--text-primary)">
               Gitlab
             </div>
-            <div className="text-[10px] border border-(--border-color) p-1.5 text-center cursor-pointer text-(--text-secondary) transition-all duration-200 rounded-[6px] hover:border-(--text-primary) hover:text-(--text-primary)">
+            <div className="text-[10px] max-sm:text-[8px] border border-(--border-color) p-1.5 text-center cursor-pointer text-(--text-secondary) transition-all duration-200 rounded-[6px] hover:border-(--text-primary) hover:text-(--text-primary)">
               Discord
             </div>
           </CollapsibleContent>
