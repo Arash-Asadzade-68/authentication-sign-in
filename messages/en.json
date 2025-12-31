@@ -1,0 +1,24 @@
+{
+  "keyTerms": {
+    "moreOptions": "More options"
+  },
+  "signIn": {
+    "title": "Welcome back",
+    "subtitle": "Sign in to Your Account to continue",
+    "orContinueWith": "or continue with",
+    "email": "Email",
+    "phone": "Phone",
+    "footer": "By clicking continue, you agree to our? <termsOfService>Terms of Service</termsOfService> and <privacyPolicy>Privacy Policy</privacyPolicy>"
+  },
+  "buttons": {
+    "continueWithGoogle": "Continue With Google",
+    "continue": "Continue",
+    "continueAsGuest": "Continue as Guest"
+  },
+  "forms": {
+    "labels": {
+      "email": "Email",
+      "phone": "Phone"
+    }
+  }
+}

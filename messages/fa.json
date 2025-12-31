@@ -1,0 +1,24 @@
+{
+  "keyTerms": {
+    "moreOptions": "سایر گزینه‌ها"
+  },
+  "signIn": {
+    "title": "خوش آمدید",
+    "subtitle": "برای ادامه وارد حساب خود شوید",
+    "orContinueWith": "یا ورود با",
+    "email": "ایمیل",
+    "phone": "موبایل",
+    "footer": "با ادامه دادن، شما قوانین ما را می‌پذیرید: <termsOfService>شرایط استفاده</termsOfService> و <privacyPolicy>حریم خصوصی</privacyPolicy>"
+  },
+  "buttons": {
+    "continueWithGoogle": "ورود با گوگل",
+    "continue": "ادامه",
+    "continueAsGuest": "ادامه به صورت مهمان"
+  },
+  "forms": {
+    "labels": {
+      "email": "آدرس ایمیل",
+      "phone": "شماره موبایل"
+    }
+  }
+}
